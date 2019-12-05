@@ -1,5 +1,5 @@
 pretend code  
 blah blah
-a
 b
-c
+b
+w
